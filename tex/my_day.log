@@ -1,0 +1,959 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.3.16)  13 MAY 2024 11:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./my_day.tex
+(my_day.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2024-01-04>
+(/home/ada/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/home/ada/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+))
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count195
+\WF@box=\box51
+\WF@everypar=\toks19
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/home/ada/.miktex/texmfs/install/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+\csq@reset=\count197
+\csq@gtype=\count198
+\csq@glevel=\count199
+\csq@qlevel=\count266
+\csq@maxlvl=\count267
+\csq@tshold=\count268
+\csq@ltx@everypar=\toks20
+
+(/home/ada/.miktex/texmfs/install/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/home/ada/.miktex/texmfs/install/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/home/ada/.miktex/texmfs/install/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count269
+\c@Blindtext=\count270
+\c@blind@countparstart=\count271
+\blind@countxx=\count272
+\blindtext@numBlindtext=\count273
+\blind@countyy=\count274
+\c@blindlist=\count275
+\c@blindlistlevel=\count276
+\c@blindlist@level=\count277
+\blind@listitem=\count278
+\c@blind@listcount=\count279
+\c@blind@levelcount=\count280
+\blind@mathformula=\count281
+\blind@Mathformula=\count282
+\c@blind@randomcount=\count283
+\c@blind@randommax=\count284
+\c@blind@pangramcount=\count285
+\c@blind@pangrammax=\count286
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen145
+\pgfutil@tempdimb=\dimen146
+) (/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box52
+) (/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfilte
+red.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\pgf@xd=\dimen155
+\pgf@yd=\dimen156
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count287
+\c@pgf@countb=\count288
+\c@pgf@countc=\count289
+\c@pgf@countd=\count290
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count291
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf
+.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.co
+de.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count292
+\pgfsyssoftpath@bigbuffer@items=\count293
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.co
+de.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/home/ada/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count294
+\pgfmath@box=\box53
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.te
+x)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.c
+ode.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigono
+metric.code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.
+code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.compari
+son.code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.co
+de.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.c
+ode.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.co
+de.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integer
+arithmetics.code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count295
+))
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code
+.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstru
+ct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.c
+ode.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code
+.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count296
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstat
+e.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen176
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformat
+ions.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.
+tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.cod
+e.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocess
+ing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code
+.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen180
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.
+tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen181
+\pgf@sys@shading@range@num=\count297
+\pgf@shadingcount=\count298
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.
+tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.co
+de.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box57
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code
+.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparenc
+y.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.co
+de.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.te
+x
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.
+tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box58
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.te
+x
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0
+-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen182
+\pgf@nodesepend=\dimen183
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1
+-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/home/ada/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/home/ada/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.
+tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandl
+ers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count299
+\pgfplotmarksize=\dimen186
+)
+\tikz@lastx=\dimen187
+\tikz@lasty=\dimen188
+\tikz@lastxsaved=\dimen189
+\tikz@lastysaved=\dimen190
+\tikz@lastmovetox=\dimen191
+\tikz@lastmovetoy=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count300
+\tikznumberofchildren=\count301
+\tikznumberofcurrentchild=\count302
+\tikz@fig@count=\count303
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.
+tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count304
+\pgfmatrixcurrentcolumn=\count305
+\pgf@matrix@numberofcolumns=\count306
+)
+\tikz@expandcount=\count307
+
+(/home/ada/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/
+tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/frankenstein/dialogue.sty
+Package: dialogue 1999/03/01 v1.1 dialogue environment (Frankenstein's mouth)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/frankenstein/blkcntrl.sty
+Package: blkcntrl 2001/08/31 v1.2 block control
+
+(/home/ada/.miktex/texmfs/install/tex/latex/frankenstein/moredefs.sty
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks33
+\sc@toks@b=\toks34
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)))
+(/home/ada/.miktex/texmfs/install/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box63
+\shadowsize=\dimen195
+\@Sbox=\box64
+\do@VerbBox=\toks35
+\the@fancyput=\toks36
+\this@fancyput=\toks37
+\EndVerbatimTokens=\toks38
+\Verbatim@Outfile=\write5
+\Verbatim@Infile=\read3
+) (/home/ada/.miktex/texmfs/install/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count308
+\mult@box=\box65
+\multicol@leftmargin=\dimen196
+\c@unbalance=\count309
+\c@collectmore=\count310
+\doublecol@number=\count311
+\multicoltolerance=\count312
+\multicolpretolerance=\count313
+\full@width=\dimen197
+\page@free=\dimen198
+\premulticols=\dimen199
+\postmulticols=\dimen256
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box66
+\last@line=\box67
+\mc@boxedresult=\box68
+\maxbalancingoverflow=\dimen257
+\mult@rightbox=\box69
+\mult@grightbox=\box70
+\mult@firstbox=\box71
+\mult@gfirstbox=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\c@minrows=\count314
+\c@columnbadness=\count315
+\c@finalcolumnbadness=\count316
+\last@try=\dimen258
+\multicolovershoot=\dimen259
+\multicolundershoot=\dimen260
+\mult@nat@firstbox=\box109
+\colbreak@box=\box110
+\mc@col@check@num=\count317
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+
+(/home/ada/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count318
+\l__pdf_internal_box=\box111
+))
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count319
+\l__lipsum_a_int=\count320
+\l__lipsum_b_int=\count321
+
+(/home/ada/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex))
+(/home/ada/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/ada/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/home/ada/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count322
+\Gm@cntv=\count323
+\c@Gm@tempcnt=\count324
+\Gm@bindingoffset=\dimen261
+\Gm@wd@mp=\dimen262
+\Gm@odd@mp=\dimen263
+\Gm@even@mp=\dimen264
+\Gm@layoutwidth=\dimen265
+\Gm@layoutheight=\dimen266
+\Gm@layouthoffset=\dimen267
+\Gm@layoutvoffset=\dimen268
+\Gm@dimlist=\toks39
+
+(/home/ada/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/ada/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/exsheets/exsheets.sty
+(/home/ada/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: exsheets 2019/09/30 v0.21k Yet another package for the creation of exe
+rcise sheets and exams.
+\l__exsheets_tmpa_int=\count325
+\l__exsheets_tmpb_int=\count326
+\l__exsheets_tmpc_int=\count327
+\l__exsheets_tmpd_int=\count328
+\l__exsheets_tmpe_int=\count329
+\g__exsheets_tmpa_int=\count330
+\l__exsheets_tmpa_dim=\dimen269
+\l__exsheets_tmpb_dim=\dimen270
+
+(/home/ada/.miktex/texmfs/install/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen271
+\l__xtemplate_tmp_int=\count331
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip61
+) (/home/ada/.miktex/texmfs/install/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/home/ada/.miktex/texmfs/install/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks40
+)
+\l__exsheets_variations_int=\count332
+\g__exsheets_questions_id_int=\count333
+\g__exsheets_questions_used_int=\count334
+\l__exsheets_include_random_int=\count335
+\l__exsheets_questions_set_int=\count336
+\g__exsheets_select_random_int=\count337
+\g__exsheets_selection_number_int=\count338
+\l__exsheets_counter_ch_int=\count339
+\l__exsheets_current_ch_int=\count340
+\l__exsheets_counter_sec_int=\count341
+\l__exsheets_current_sec_int=\count342
+\l_exsheets_counter_qu_int=\count343
+\l__exsheets_questions_skip_below_dim=\dimen272
+\l__exsheets_solutions_skip_below_dim=\dimen273
+\l__exsheets_blank_dim=\dimen274
+\l__exsheets_blank_line_increment_dim=\dimen275
+\l__exsheets_blank_line_minimum_length_dim=\dimen276
+\l__exsheets_blank_box=\box112
+
+(/home/ada/.miktex/texmfs/install/tex/latex/cntformats/cntformats.sty
+Package: cntformats 2014/07/20 v0.7 A different way to read counters. (CN)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/cnltx/cnltx-base.sty
+Package: cnltx-base 2019/11/01 v0.15 LaTeX tools and documenting facilities (CN
+)
+
+(/home/ada/.miktex/texmfs/install/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks41
+\pgfopts@list@add@b@toks=\toks42
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/home/ada/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/ada/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+\c@cnltx@tmpa=\count344
+\c@cnltx@tmpb=\count345
+\c@cnltx@tmpc=\count346
+\cnltx@tmpa@length=\skip62
+\cnltx@tmpb@length=\skip63
+\cnltx@tmpc@length=\skip64
+))
+\c@question=\count347
+
+(/home/ada/.miktex/texmfs/install/tex/latex/exsheets/exsheets_headings.def
+File: exsheets_headings.def  2019/09/30 v0.21k ExSheets headings object
+\l__exsheets_heading_above_dim=\dimen277
+\l__exsheets_heading_below_dim=\dimen278
+\l__exsheets_heading_main_coffin=\box113
+\l__exsheets_heading_pre_coffin=\box114
+\l__exsheets_heading_post_coffin=\box115
+\l__exsheets_heading_title_coffin=\box116
+\l__exsheets_heading_number_coffin=\box117
+\l__exsheets_heading_points_coffin=\box118
+\l__exsheets_heading_subtitle_coffin=\box119
+
+Package xtemplate Info: Declaring object type 'exsheets-heading' taking 5
+(xtemplate)             argument(s) on line 184.
+
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/exsheets/exsheets_headings.cfg
+File: exsheets_headings.cfg  2019/09/30 v0.21k ExSheets headings instances 
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/tasks/tasks.sty
+Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
+\g__tasks_total_items_int=\count348
+\l__tasks_columns_int=\count349
+\g__tasks_rows_int=\count350
+\g__tasks_current_col_num_int=\count351
+\g__tasks_current_row_num_int=\count352
+\l__tasks_item_columns_int=\count353
+\g__tasks_env_int=\count354
+\l__tasks_start_int=\count355
+\l__tasks_item_indent_dim=\dimen279
+\l__tasks_item_default_indent_dim=\dimen280
+\l__tasks_item_width_dim=\dimen281
+\l__tasks_label_width_dim=\dimen282
+\l__tasks_label_default_width_dim=\dimen283
+\l__tasks_label_offset_dim=\dimen284
+\l__tasks_label_default_offset_dim=\dimen285
+\l__tasks_column_sep_dim=\dimen286
+\l__tasks_correction_dim=\dimen287
+\l__tasks_full_width_dim=\dimen288
+\l__tasks_after_item_skip=\skip65
+\l__tasks_custom_after_item_skip=\skip66
+\l__tasks_before_list_skip=\skip67
+\l__tasks_after_list_skip=\skip68
+\l__tasks_item_coffin=\box120
+\l__tasks_label_coffin=\box121
+\c@task=\count356
+\l__tasks_tmpa_int=\count357
+\l__tasks_tmpb_int=\count358
+\l__tasks_tmpa_coffin=\box122
+\l__tasks_tmpa_box=\box123
+
+Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
+(xtemplate)             line 450.
+
+
+(/home/ada/.miktex/texmfs/install/tex/latex/tasks/tasks.cfg))
+(/home/ada/.miktex/texmfs/install/tex/latex/ulem/ulem.sty
+\UL@box=\box124
+\UL@hyphenbox=\box125
+\UL@skip=\skip69
+\UL@hook=\toks43
+\UL@height=\dimen289
+\UL@pe=\count359
+\UL@pixel=\dimen290
+\ULC@box=\box126
+Package: ulem 2019/11/18
+\ULdepth=\dimen291
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 43.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+3.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (my_day.aux)
+\openout1 = `my_day.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+(/home/ada/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count360
+\scratchdimen=\dimen292
+\scratchbox=\box127
+\nofMPsegments=\count361
+\nofMParguments=\count362
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count363
+\MPscratchDim=\dimen293
+\MPnumerator=\count364
+\makeMPintoPDFobject=\count365
+\everyMPtoPDFconversion=\toks45
+) (/home/ada/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=489.10287pt
+* \textheight=736.64185pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-55.06749pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package exsheets Info: Loading custom configurations file
+(exsheets)             `exsheets_configurations.cfg'.
+
+
+(/home/ada/.miktex/texmfs/install/tex/latex/exsheets/exsheets_configurations.cf
+g
+File: exsheets_configurations.cfg 
+)
+(/home/ada/.miktex/texmfs/install/tex/latex/translations/dicts/translations-bas
+ic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 43.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+10.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 8056) in paragraph at lines 121--122
+[]\OT1/lmr/m/n/10 Creative: Can use more descriptive
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+34.
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+134.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+134.
+
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 134.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 134.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 134.
+ [1{/home/ada/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/ada/.mikte
+x/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}
+
+] [2{/home/ada/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}]
+Overfull \hbox (103.96805pt too wide) in paragraph at lines 182--229
+ [] 
+ []
+
+[3{/home/ada/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rmsc.enc}]
+</home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolfiera.
+jpg, id=20, 220.4235pt x 246.6816pt>
+File: /home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolf
+iera.jpg Graphic file (type jpg)
+<use /home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolfi
+era.jpg>
+Package pdftex.def Info: /home/ada/Nextcloud2/risorse-next/istockphoto-87911965
+4-1024x1024-mongolfiera.jpg  used on input line 332.
+(pdftex.def)             Requested size: 139.39528pt x 156.00117pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--334
+[]
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 353--354
+[]\OT1/lmr/m/n/10 Definitely, let's put it on our itinerary for
+ []
+
+[4]
+Overfull \vbox (5.63167pt too high) has occurred while \output is active []
+
+
+[5 </home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolfie
+ra.jpg>]
+</home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore.jpg,
+ id=27, 147.4308pt x 98.2872pt>
+File: /home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore
+.jpg Graphic file (type jpg)
+<use /home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore.
+jpg>
+Package pdftex.def Info: /home/ada/Nextcloud2/risorse-next/istockphoto-69435614
+0-612x612-singapore.jpg  used on input line 400.
+(pdftex.def)             Requested size: 391.28378pt x 260.8977pt.
+ [6 </home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore.
+jpg>] (my_day.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 18496 strings out of 476421
+ 402242 string characters out of 5795635
+ 1950525 words of memory out of 5000000
+ 40175 multiletter control sequences out of 15000+600000
+ 587032 words of font info for 54 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 86i,11n,93p,1292b,885s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/ada/.miktex/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></home/ada
+/.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/ada/.miktex/tex
+mfs/install/fonts/type1/public/lm/lmcsc10.pfb></home/ada/.miktex/texmfs/install
+/fonts/type1/public/lm/lmr10.pfb></home/ada/.miktex/texmfs/install/fonts/type1/
+public/lm/lmr12.pfb>
+Output written on my_day.pdf (6 pages, 374356 bytes).
+PDF statistics:
+ 57 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+
