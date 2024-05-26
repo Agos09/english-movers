@@ -1,0 +1,139 @@
+\documentclass[]{article} %la classe mi preimposta alcune opzioni 
+\usepackage{subfiles}
+%latex packages
+%
+% ------------------PACKAGES
+% 
+\usepackage{graphicx} %per inserire figure
+\usepackage{enumerate} %per liste numerate, mettere * quando non voglio il nr
+\usepackage{wrapfig} % raggruppare una figura e poterne gestire meglio il posizionamento
+\usepackage{comment} % mi permette di commentare più linee
+\usepackage{csquotes} %for quotations
+\usepackage{blindtext} %for random text
+
+\usepackage{tikz} % for drawing lines
+%\newtheorem{definition}{printed def} % può essere utile per le definizioni
+%\newtheorem*{remark}{nota}
+\usepackage{lmodern} %in alternativa lmodern, palatino, times, helvet
+\usepackage[dvipsnames]{xcolor} %per una gestioen più ampia dei colori, lopzione tra [] mi da più ampia scelta di colori find other colors here https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX
+%\usepackage[scaled]{beramono} %resets the monospace font in the document
+\usepackage{dialogue} % per i dialoghi
+\usepackage{fancybox} %per caselle di testo
+
+\definecolor{MyCustomColor}{RGB}{198,162,1}
+\definecolor{NewColor}{HTML}{665544}
+%
+\usepackage{multicol} % Essential for multi-column layouts
+
+% Other useful packages (explained later)
+\usepackage{lipsum}  % For generating filler text
+\usepackage[margin=0.75in, a4paper]{geometry} % To control page margins
+\usepackage{fancyhdr} % For custom headers/footers
+\usepackage{exsheets} %for exercises 
+\pagestyle{fancy}
+
+
+\lhead{Movers - Ist. Mandes}
+\rhead{talking about feelings}   % Right header content
+\rfoot{22/05/2024}% lesson 4 casalnuovo
+
+
+\begin{document}
+
+\subsection*{reading}
+Music is a universal language that speaks to our hearts and minds. It has the power to evoke emotions, create memories, and connect us to others. From the joyful beats of a dance track to the soothing melodies of a lullaby, music can express a wide range of feelings and experiences. Whether we are listening to our favorite songs or creating our own, music is an essential part of our lives, enriching our world with beauty and meaning.
+
+
+
+\subsection*{dialogue}
+
+% Sunlight streams through a window, illuminating a dusty upright piano and shelves filled with sheet music. BEN (12, thoughtful) sits on the piano bench, softly playing a melancholic tune.  MIA (12, energetic) enters, humming along.
+
+MIA: Wow, Ben. That sounds... sad.\\
+\\
+BEN: (Stops playing) Yeah. It's supposed to be. It's about missing someone.\\
+\\
+MIA: (Tilts her head) Music can do that? Make you feel like you miss someone?\\
+\\
+BEN: (Nods) Definitely. Different kinds of music make you feel different things.\\
+\\
+MIA: (Intrigued) Like what?\\
+\\
+BEN: (Thinks for a moment) Well, fast music with lots of drums can make you feel excited or happy.\\
+\\
+MIA: (Jumps up) Like a party!\\
+\\
+BEN: Exactly. Or slow music with a guitar, like this one, can make you feel sad or thoughtful.\\
+\\
+MIA: (Sits beside him) I never thought about it like that.\\
+\\
+BEN: Music is like a secret language. It tells stories and makes you feel things without even using words.\\
+\\
+MIA: (Looks at the piano keys) Can you teach me how to speak that language?\\
+\\
+BEN: (Smiles) Of course. Start with this key...\\
+
+%(Ben guides Mia's fingers onto the piano keys, and they begin to play a simple, joyful melody together.)
+
+
+\iffalse
+Notes:
+
+Language Level: This dialogue is simple and uses vocabulary that is likely familiar to ESL students (e.g., sad, happy, excited, thoughtful).
+Emotions: The scene explores basic emotions (sadness, happiness, excitement) that are easily relatable for young learners.
+Musical Concepts: It introduces the idea that different types of music can evoke different emotions and that music can communicate without words.
+Let me know if you'd like any adjustments or other scenes!
+\fi
+
+\subsection{adjectives of feelings: I feel...}
+
+sad, excited, joyful, melancholic, angry, calm, peaceful, anxious, worried, stressed, content, grateful, loved, inspired, surprised, amused, bored, apathetic, confused, scared,  disgusted, revolted, ashamed, jealous, proud, 
+
+\subsection{Can You Match These Words to Their Definitions?}
+
+\begin{tabular}{l p{2cm} l}
+	\hline
+ashamed && feeling embarrassed or guilty about something\\
+proud && feeling pleased and satisfied with your achievements\\
+angry && feeling strong emotions of displeasure or annoyance\\
+melancholic && feeling very sad and thoughtful\\
+excited && feeling very happy and enthusiastic\\
+bored && feeling uninterested or lacking excitement\\
+worried && feeling anxious or concerned about something\\
+amused && feeling entertained or finding something funny\\
+stressed && feeling under pressure and tense\\
+inspired && feeling motivated and creative\\
+loved && feeling cared for and valued by others\\
+apathetic && feeling indifferent or having no interest in anything\\
+scared && feeling afraid or frightened\\
+disgusted && feeling strong revulsion or disapproval\\
+confused && feeling unsure or puzzled about something\\
+surprised && feeling amazed or shocked by something unexpected\\
+sad && feeling unhappy or upset\\
+calm && feeling peaceful and relaxed\\
+joyful && feeling great happiness and pleasure\\
+\end{tabular}
+
+\iffalse
+more adjectives
+happy, sad, excited, joyful, melancholic, angry, frusrated, calm, peaceful, anxious, worried, stressed, content, grateful, loved, hopeful, inspired, amazed, surprised, amused, delighted, curious, intrigued, bored, indifferent, apathetic, overwhelmed, confused, scared, frightened, terrified, disgusted, revolted, ashamed, guilty, embarrassed, jealous, envious, proud, confident, determined, optimistic, pessimistic
+\fi
+
+
+\subsubsection*{which feelings for a song?}
+
+
+"Can't Stop the Feeling!" by Justin Timberlake % - Joyful excitement - This upbeat, catchy pop song with its playful lyrics and energetic rhythm is designed to make you want to dance and sing along, evoking feelings of pure joy and excitement.
+
+
+"Nuvole Bianche" by Ludovico Einaudi % peaceful relaxation - This instrumental piano piece with its simple, repetitive melody and calming atmosphere is often used for meditation and relaxation, promoting feelings of peace and tranquility.
+
+"Yesterday" by The Beatles %nostalgic longing - This classic ballad with its melancholic melody and poignant lyrics about lost love is known to evoke feelings of nostalgia and longing for the past.
+
+"Lose Yourself" by Eminem %inspiring determination - This intense rap song with its powerful beat and lyrics about overcoming challenges and seizing opportunities can inspire feelings of motivation, determination, and the drive to succeed.
+
+"Hallelujah" by Leonard Cohen %heartfelt sadness - This haunting ballad with its evocative lyrics and somber melody often evokes feelings of profound sadness, loss, and introspection.
+
+
+
+\end{document}

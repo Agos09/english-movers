@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.3.16)  13 MAY 2024 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.3.16)  14 MAY 2024 10:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -855,105 +855,238 @@ nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `english'. on input line 43.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-10.
 
-(/home/ada/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 8056) in paragraph at lines 121--122
-[]\OT1/lmr/m/n/10 Creative: Can use more descriptive
+Underfull \hbox (badness 10000) in paragraph at lines 47--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--92
+
+ []
+
+[1{/home/ada/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/ada/.miktex
+/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
  []
 
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-34.
+86.
 (/home/ada/.miktex/texmfs/install/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-134.
+186.
 
 (/home/ada/.miktex/texmfs/install/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-134.
+186.
 
 (/home/ada/.miktex/texmfs/install/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 134.
+(Font)              <10> on input line 186.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 134.
+(Font)              <7> on input line 186.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 134.
- [1{/home/ada/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/ada/.mikte
-x/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}
+(Font)              <5> on input line 186.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+02.
 
-] [2{/home/ada/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (103.96805pt too wide) in paragraph at lines 182--229
- [] 
- []
+(/home/ada/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
-[3{/home/ada/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rmsc.enc}]
-</home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolfiera.
-jpg, id=20, 220.4235pt x 246.6816pt>
-File: /home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolf
-iera.jpg Graphic file (type jpg)
-<use /home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolfi
-era.jpg>
-Package pdftex.def Info: /home/ada/Nextcloud2/risorse-next/istockphoto-87911965
-4-1024x1024-mongolfiera.jpg  used on input line 332.
-(pdftex.def)             Requested size: 139.39528pt x 156.00117pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 329--334
-[]
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 353--354
-[]\OT1/lmr/m/n/10 Definitely, let's put it on our itinerary for
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
  []
 
-[4]
-Overfull \vbox (5.63167pt too high) has occurred while \output is active []
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
 
 
-[5 </home/ada/Nextcloud2/risorse-next/istockphoto-879119654-1024x1024-mongolfie
-ra.jpg>]
-</home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore.jpg,
- id=27, 147.4308pt x 98.2872pt>
-File: /home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore
-.jpg Graphic file (type jpg)
-<use /home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore.
-jpg>
-Package pdftex.def Info: /home/ada/Nextcloud2/risorse-next/istockphoto-69435614
-0-612x612-singapore.jpg  used on input line 400.
-(pdftex.def)             Requested size: 391.28378pt x 260.8977pt.
- [6 </home/ada/Nextcloud2/risorse-next/istockphoto-694356140-612x612-singapore.
-jpg>] (my_day.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+[3{/home/ada/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}] (my_day.aux
+)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18496 strings out of 476421
- 402242 string characters out of 5795635
- 1950525 words of memory out of 5000000
- 40175 multiletter control sequences out of 15000+600000
- 587032 words of font info for 54 fonts, out of 8000000 for 9000
+ 18430 strings out of 476421
+ 399664 string characters out of 5795635
+ 1938525 words of memory out of 5000000
+ 40111 multiletter control sequences out of 15000+600000
+ 578390 words of font info for 51 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  86i,11n,93p,1292b,885s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/ada/.miktex/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></home/ada
 /.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/ada/.miktex/tex
-mfs/install/fonts/type1/public/lm/lmcsc10.pfb></home/ada/.miktex/texmfs/install
-/fonts/type1/public/lm/lmr10.pfb></home/ada/.miktex/texmfs/install/fonts/type1/
-public/lm/lmr12.pfb>
-Output written on my_day.pdf (6 pages, 374356 bytes).
+mfs/install/fonts/type1/public/lm/lmr10.pfb>
+Output written on my_day.pdf (3 pages, 100102 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
